@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
        - name: app
-         image: edu123/myimage:CICD
+         image: subhasree0106/myimage:docker
 ---
 kind: Service
 apiVersion: v1
